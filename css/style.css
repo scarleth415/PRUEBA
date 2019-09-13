@@ -1,0 +1,25 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #353330;
+	padding: 15px 0;
+	color: #777;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+#hero{
+	background-image: url("../img/hero-image.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding:200px 0;
+	}
